@@ -1,0 +1,7 @@
+[2026-02-12 15:17:03] [SERVER] [INFO] [src/Server/Server.cpp:155] [start] Server started
+[2026-02-12 15:17:09] [SERVER] [INFO] [src/Server/Server.cpp:369] [start] Server shutting down
+[2026-02-12 16:37:05] [SERVER] [INFO] [src/Server/Server.cpp:155] [start] Server started
+[2026-02-12 16:37:25] [CONNECTION] [INFO] [src/Server/Server.cpp:295] [start] Client connected. FD = 5
+[2026-02-12 16:38:28] [TRAVERSAL] [FATAL] [src/DirectoryTraverser/DirectoryTraverser.cpp:230] [traverse] opendir failed: No such file or directory
+[2026-02-12 16:38:28] [TRAVERSE] [INFO] [src/Server/ClientHandler.cpp:446] [handle] Traversal completed
+[2026-02-12 16:38:45] [TRAVERSE] [INFO] [src/Server/ClientHandler.cpp:446] [handle] Traversal completed

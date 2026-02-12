@@ -1,0 +1,4 @@
+[2026-02-12 16:37:25] [CLIENT] [INFO] [src/Client/Client.cpp:78] [start] Client started
+[2026-02-12 16:37:36] [AUTH] [INFO] [src/Client/Client.cpp:185] [start] Authentication successful
+[2026-02-12 16:38:28] [COMMAND] [DEBUG] [src/Client/Client.cpp:248] [start] TRAVERSE home/sagnik_dey/DCDIU
+[2026-02-12 16:38:45] [COMMAND] [DEBUG] [src/Client/Client.cpp:248] [start] TRAVERSE /home/sagnik_dey/DCDIU
